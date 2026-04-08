@@ -1,0 +1,13 @@
+{
+  "name": "pikuniku-demo",
+  "platform": "web-desktop",
+  "buildPath": "project://build",
+  "debug": true,
+  "startScene": "db://assets/scenes/GameScene.scene",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/GameScene.scene",
+      "inBundle": false
+    }
+  ]
+}
