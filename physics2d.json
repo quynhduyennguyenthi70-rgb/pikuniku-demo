@@ -1,0 +1,8 @@
+{
+  "enable": true,
+  "physicsSystem": "builtin",
+  "gravity": { "x": 0, "y": -980 },
+  "autoSimulation": true,
+  "fixedTimeStep": 0.016666666666666666,
+  "maxSubSteps": 2
+}
