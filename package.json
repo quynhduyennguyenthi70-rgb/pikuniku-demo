@@ -1,0 +1,8 @@
+{
+  "name": "pikuniku-demo",
+  "version": "1.0.0",
+  "description": "野餐大冒险风格游戏 Demo",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT"
+}
