@@ -1,0 +1,19 @@
+{
+  "physics": {
+    "physicsSystem": "builtin",
+    "gravity": { "x": 0, "y": -980 },
+    "allowSleep": true,
+    "sleepThreshold": 0.1,
+    "autoSimulation": true,
+    "fixedTimeStep": 0.016666666666666666,
+    "maxSubSteps": 2,
+    "linearSleepThreshold": 0.1,
+    "angularSleepThreshold": 0.1
+  },
+  "rendering": {
+    "renderMode": 0
+  },
+  "module": {
+    "excludeModules": []
+  }
+}
